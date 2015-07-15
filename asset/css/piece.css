@@ -1,0 +1,103 @@
+#box {
+  box-shadow: rgb(230, 230, 230) 1px 1px,
+  rgb(231, 231, 231) 2px 2px,
+  rgb(231, 231, 231) 3px 3px,
+  rgb(232, 232, 232) 4px 4px,
+  rgb(233, 233, 233) 5px 5px,
+  rgb(233, 233, 233) 6px 6px,
+  rgb(234, 234, 234) 7px 7px,
+  rgb(235, 235, 235) 8px 8px,
+  rgb(235, 235, 235) 9px 9px,
+  rgb(236, 236, 236) 10px 10px,
+  rgb(237, 237, 237) 11px 11px,
+  rgb(237, 237, 237) 12px 12px,
+  rgb(238, 238, 238) 13px 13px,
+  rgb(238, 238, 238) 14px 14px,
+  rgb(239, 239, 239) 15px 15px,
+  rgb(240, 240, 240) 16px 16px,
+  rgb(240, 240, 240) 17px 17px,
+  rgb(241, 241, 241) 18px 18px,
+  rgb(242, 242, 242) 19px 19px,
+  rgb(242, 242, 242) 20px 20px,
+  rgb(243, 243, 243) 21px 21px,
+  rgb(244, 244, 244) 22px 22px,
+  rgb(244, 244, 244) 23px 23px,
+  rgb(245, 245, 245) 24px 24px,
+  rgb(246, 246, 246) 25px 25px,
+  rgb(246, 246, 246) 26px 26px,
+  rgb(247, 247, 247) 27px 27px,
+  rgb(247, 247, 247) 28px 28px,
+  rgb(248, 248, 248) 29px 29px,
+  rgb(249, 249, 249) 30px 30px,
+  rgb(249, 249, 249) 31px 31px,
+  rgb(250, 250, 250) 32px 32px,
+  rgb(251, 251, 251) 33px 33px,
+  rgb(251, 251, 251) 34px 34px,
+  rgb(252, 252, 252) 35px 35px,
+  rgb(253, 253, 253) 36px 36px,
+  rgb(253, 253, 253) 37px 37px,
+  rgb(254, 254, 254) 38px 38px,
+  rgb(255, 255, 255) 39px 39px;
+}
+
+#icon-shadow {
+  text-shadow: rgb(230, 230, 230) 1px 1px,
+  rgb(230, 230, 230) 2px 2px,
+  rgb(230, 230, 230) 3px 3px,
+  rgb(230, 230, 230) 4px 4px,
+  rgb(230, 230, 230) 5px 5px,
+  rgb(230, 230, 230) 6px 6px,
+  rgb(230, 230, 230) 7px 7px,
+  rgb(230, 230, 230) 8px 8px,
+  rgb(230, 230, 230) 9px 9px,
+  rgb(230, 230, 230) 10px 10px,
+  rgb(230, 230, 230) 11px 11px,
+  rgb(230, 230, 230) 12px 12px,
+  rgb(231, 231, 231) 13px 13px,
+  rgb(232, 232, 232) 14px 14px,
+  rgb(234, 234, 234) 15px 15px,
+  rgb(235, 235, 235) 16px 16px,
+  rgb(236, 236, 236) 17px 17px,
+  rgb(238, 238, 238) 18px 18px,
+  rgb(239, 239, 239) 19px 19px,
+  rgb(241, 241, 241) 20px 20px,
+  rgb(242, 242, 242) 21px 21px,
+  rgb(243, 243, 243) 22px 22px,
+  rgb(245, 245, 245) 23px 23px,
+  rgb(246, 246, 246) 24px 24px,
+  rgb(248, 248, 248) 25px 25px,
+  rgb(249, 249, 249) 26px 26px,
+  rgb(250, 250, 250) 27px 27px,
+  rgb(252, 252, 252) 28px 28px,
+  rgb(253, 253, 253) 29px 29px,
+  rgb(255, 255, 255) 30px 30px;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+  color: #fff;
+  background: #58d68d;
+  -webkit-transition: background-color 100ms linear;
+  -moz-transition: background-color 100ms linear;
+  -o-transition: background-color 100ms linear;
+  -ms-transition: background-color 100ms linear;
+  transition: background-color 100ms linear;
+}
+
+.nav>li>a:hover, .nav>li>a:focus {
+  background: rgb(247, 247, 193);
+  -webkit-transition: background-color 150ms linear;
+  -moz-transition: background-color 150ms linear;
+  -o-transition: background-color 150ms linear;
+  -ms-transition: background-color 150ms linear;
+  transition: background-color 150ms linear;
+  -webkit-border-top-left-radius: 0;
+  -webkit-border-bottom-left-radius: 0;
+  -moz-border-top-left-radius: 0;
+  -moz-border-bottom-left-radius: 0;
+  -o-border-top-left-radius: 0;
+  -o-border-bottom-left-radius: 0;
+  -ms-border-top-left-radius: 0;
+  -ms-border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
